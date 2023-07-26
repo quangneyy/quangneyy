@@ -1,5 +1,5 @@
 ### Hi, I'm Quang Ney 👋
-# "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are"
+##### "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are"
 <!--
 **quangneyy/quangneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
